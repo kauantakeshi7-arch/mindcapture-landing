@@ -1,9 +1,4 @@
 {
-  "buildCommand": "",
-  "outputDirectory": "src",
-  "framework": "static",
-  "env": {
-    "SITE_URL": "@site_url",
-    "ANALYTICS_ID": "@analytics_id"
-  }
+  "buildCommand": null,
+  "outputDirectory": "src"
 }
